@@ -21,8 +21,8 @@ header h1 {
 				    margin-top: 20px
 }
     
-nav {               font-family: arial, sans-serif;
-                    font-size: 1 em;
+nav {               font-family: helvetica, sans-serif;
+                    font-size: 1em;
                     color: rgb(255, 255, 255);
                     width: 100%;
 				    float: left;
@@ -33,7 +33,7 @@ nav {               font-family: arial, sans-serif;
                               
 }
 
-nav ul {            font-family: arial, sans-serif;
+nav ul {            font-family: helvetica, sans-serif;
                     font-size: 1.1em;
 				    width: 100%;
                     display: -moz-inline-block;
@@ -56,8 +56,9 @@ nav ul li a {       text-decoration: none;
 				    border-left: 4px solid rgb(108, 80, 155);
 }
 
-.sidemenu {	        font-family: arial, sans-serif;
+.sidemenu {	        font-family: helvetica, sans-serif;
 				    font-size: 1em;
+                    font-weight: 800px;
 				    margin: 0px;
 				    padding: 45px 25px ;
 				    margin-top: 37px;
@@ -81,7 +82,9 @@ nav ul li a {       text-decoration: none;
                 
 }
 
-.sidemenu ul li a { font-family: arial, sans-serif;
+.sidemenu ul li a { font-family: helvetica, sans-serif;
+                    font-size: 1.2em;
+                    font-weight: 600px;
 					margin-left: 90%;
 					text-decoration: none; 
 					color: rgb(255, 255, 255);
@@ -94,9 +97,9 @@ nav ul li a {       text-decoration: none;
 
 article { 	        clear: both;
 				    margin-left: 279px;
-				    margin-top: -520px;
+				    margin-top: -540px;
 				    width: 100%;
-                    padding-bottom: 30px;
+                    padding-bottom: 25px;
 				    background-color: rgb(225, 228, 233);
 }
 
@@ -106,12 +109,12 @@ article img	{       margin-left: 19%;
 }
 
 
-article section p {	text-align: center;
-				    font-family: arial,sans-serif;
+article section p { font-family: arial,sans-serif;
 				    font-size: .9em;
 				    width: 40%;
 				    margin-left:15%;
 				    padding-top: 30px;
+                    text-align: center;
 }
 
 footer img {        width: 30px;

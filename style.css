@@ -68,7 +68,6 @@ nav ul li a {       font-weight: bold;
 }
 
 .sidemenu ul { 	    margin: auto;
-				    padding: px 5px 8px 9px;
 				    width: 50%;
 				    display: inline-block;
 				    text-decoration: none;
@@ -77,9 +76,7 @@ nav ul li a {       font-weight: bold;
 }
 
 .sidemenu ul li {   display: inline-block;
-				    margin-bottom: 3.5px;
-                    
-                
+				    margin-bottom: 4px;               
                 
 }
 

@@ -22,7 +22,7 @@ header h1 {
 }
     
 nav {               font-family: helvetica, sans-serif;
-                    font-size: 1em;
+                    font-size: 1.1em;
                     color: rgb(255, 255, 255);
                     width: 100%;
 				    float: left;
@@ -58,7 +58,7 @@ nav ul li a {       text-decoration: none;
 
 .sidemenu {	        font-family: helvetica, sans-serif;
 				    font-size: 1em;
-                    font-weight: 800px;
+                    font-weight: bold;
 				    margin: 0px;
 				    padding: 45px 25px ;
 				    margin-top: 37px;
@@ -83,8 +83,8 @@ nav ul li a {       text-decoration: none;
 }
 
 .sidemenu ul li a { font-family: helvetica, sans-serif;
-                    font-size: 1.2em;
-                    font-weight: 600px;
+                    font-size: 1.1em;
+                    font-weight: bold;
 					margin-left: 90%;
 					text-decoration: none; 
 					color: rgb(255, 255, 255);
@@ -126,7 +126,6 @@ footer img {        width: 30px;
 footer {            margin: 0 auto;
                     text-align: center;
 				    width: 100%;
-				    /*margin-left: 20px;*/
 				    background-color: rgb(255, 255, 255);
 				
 }
